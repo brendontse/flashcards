@@ -1,0 +1,17 @@
+.js-term {
+  display: all;
+}
+
+.js-answer {
+  display: none;
+}
+
+.js-term2 {
+  display: all;
+}
+
+.js-answer2 {
+  display: none;
+}
+
+body {background-color: pink;}
